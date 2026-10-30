@@ -1,121 +1,181 @@
  <div align="center">
 
+<img src="assets/peerdrop-icon.png" width="120" alt="PeerDrop App Icon">
+
 # PeerDrop
 
-### Fast. Simple. Cross-platform File Transfer.
+### File Sharing Without Boundaries.
 
-Transfer files between Android, Windows, and Linux devices with PeerDrop.
+**Fast · Simple · Cross-Platform**
 
-**Developed by Ateeq Develops**
+Transfer files seamlessly between Android, Windows, and Linux devices.
 
-[Google Play](https://play.google.com/store/apps/details?id=com.ateeqdevelops.peerdrop) · [Windows & Linux Downloads](https://ateeqdevelops.github.io/peerdrop/) · [Developer Website](https://ateeqdevelops.github.io/)
+<br>
+
+<a href="https://ateeqdevelops.github.io/peerdrop/">
+  <img src="https://img.shields.io/badge/GET%20FOR%20WINDOWS-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Get for Windows">
+</a>
+<a href="https://ateeqdevelops.github.io/peerdrop/">
+  <img src="https://img.shields.io/badge/GET%20FOR%20LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Get for Linux">
+</a>
+<a href="https://play.google.com/store/apps/details?id=com.ateeqdevelops.peerdrop">
+  <img src="https://img.shields.io/badge/ANDROID-GET%20ON%20GOOGLE%20PLAY-34A853?style=for-the-badge&logo=googleplay&logoColor=white" alt="Get on Google Play">
+</a>
+
+<br>
+
+[Official Website](https://ateeqdevelops.github.io/peerdrop/) · [Developer](https://ateeqdevelops.github.io/)
 
 </div>
 
 ---
 
-## Screenshots
+## ✨ Experience PeerDrop
 
-### 1. PeerDrop for PC (Windows & Linux)
+PeerDrop is a cross-platform file-transfer application built to make sharing files between your devices straightforward.
 
-<p align="center">
-  <img src="assets/pc-main-window.png" alt="PeerDrop PC application" width="850">
-</p>
+Whether you're using a PC or an Android device, PeerDrop brings your file-sharing experience together in one application.
 
-### 2. Android — Send Files
+## 🖥️ Desktop Experience
 
-<p align="center">
-  <img src="assets/android-send.png" alt="PeerDrop Android Send screen" width="250">
-</p>
+<div align="center">
 
-### 3. Android — Receive Files
+<img src="assets/pc-main-window.png" alt="PeerDrop Desktop Application" width="900">
 
-<p align="center">
-  <img src="assets/android-receive.png" alt="PeerDrop Android Receive screen" width="250">
-</p>
+**PeerDrop for Windows and Linux**
 
-### 4. Android — Settings
+</div>
 
-<p align="center">
-  <img src="assets/android-settings.png" alt="PeerDrop Android Settings screen" width="250">
-</p>
+## 📱 Android Experience
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+<img src="assets/android-send.png" width="220" alt="PeerDrop Send">
+<br>
+<strong>Send Files</strong>
+</td>
+<td align="center">
+<img src="assets/android-receive.png" width="220" alt="PeerDrop Receive">
+<br>
+<strong>Receive Files</strong>
+</td>
+<td align="center">
+<img src="assets/android-settings.png" width="220" alt="PeerDrop Settings">
+<br>
+<strong>Settings</strong>
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
-## Downloads
+## 🚀 Download PeerDrop
 
-| Platform | Download |
-|---|---|
-| Windows | [Download Windows Installer (.exe)](https://ateeqdevelops.github.io/peerdrop/) |
-| Linux | [Download Linux Package (.deb)](https://ateeqdevelops.github.io/peerdrop/) |
-| Android | [Download from Google Play](https://play.google.com/store/apps/details?id=com.ateeqdevelops.peerdrop) |
+Choose your platform and get started.
 
-## About PeerDrop
-
-PeerDrop is a cross-platform file-sharing application designed to make transferring files between devices simple and convenient.
-
-### Supported Platforms
-
-- Android
-- Windows
-- Linux
-
-### Features
-
-- Cross-platform file sharing
-- Simple and clean interface
-- Send and receive files
-- Desktop installers for Windows and Linux
-- Android application available on Google Play
-
-## Installation
+<div align="center">
 
 ### Windows
+**Windows x64**
 
-1. Visit the [official download page](https://ateeqdevelops.github.io/peerdrop/).
-2. Download the Windows `.exe` installer.
-3. Run the installer and follow the instructions.
-4. Launch PeerDrop.
+<a href="https://ateeqdevelops.github.io/peerdrop/">
+  <img src="https://img.shields.io/badge/Download-.EXE-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Download Windows">
+</a>
 
 ### Linux
+**Debian / Ubuntu (.deb)**
 
-1. Visit the [official download page](https://ateeqdevelops.github.io/peerdrop/).
-2. Download the `.deb` package.
-3. Install the package using your distribution's package installer.
-4. Launch PeerDrop.
+<a href="https://ateeqdevelops.github.io/peerdrop/">
+  <img src="https://img.shields.io/badge/Download-.DEB-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Download Linux">
+</a>
 
 ### Android
+**Available on Google Play**
 
-Install PeerDrop directly from [Google Play](https://play.google.com/store/apps/details?id=com.ateeqdevelops.peerdrop).
+<a href="https://play.google.com/store/apps/details?id=com.ateeqdevelops.peerdrop">
+  <img src="https://img.shields.io/badge/GET%20IT%20ON-Google%20Play-34A853?style=for-the-badge&logo=googleplay&logoColor=white" alt="Google Play">
+</a>
 
-## Getting Started
+</div>
 
-1. Install PeerDrop on your devices.
-2. Open the application on both devices.
-3. Choose Send or Receive.
-4. Follow the in-app instructions to transfer files.
+---
 
-## Troubleshooting
+## 🌟 Features
 
-- Make sure devices are connected to the same local network when required.
-- Check firewall settings if desktop devices cannot discover each other.
-- Restart the application if a device is not appearing.
-- Make sure you have installed the latest available version.
+- **Cross-platform:** Available for Android, Windows, and Linux.
+- **File sharing:** Send and receive files between supported devices.
+- **Desktop support:** Dedicated Windows and Linux installers.
+- **Simple experience:** Clean interface and straightforward transfer workflow.
+- **One ecosystem:** Use PeerDrop across your supported devices.
 
-## Developer
+## 📥 Installation
 
-**Ateeq Develops**
+<details>
+<summary><strong>Windows Installation</strong></summary>
 
-- Website: https://ateeqdevelops.github.io/
-- PeerDrop Downloads: https://ateeqdevelops.github.io/peerdrop/
-- Google Play: https://play.google.com/store/apps/details?id=com.ateeqdevelops.peerdrop
+1. Open the [official PeerDrop download page](https://ateeqdevelops.github.io/peerdrop/).
+2. Download the Windows `.exe` installer.
+3. Run the installer.
+4. Follow the installation instructions.
+5. Launch PeerDrop.
+
+</details>
+
+<details>
+<summary><strong>Linux Installation</strong></summary>
+
+1. Open the [official PeerDrop download page](https://ateeqdevelops.github.io/peerdrop/).
+2. Download the Linux `.deb` package.
+3. Open the package with your system's package installer.
+4. Complete installation and launch PeerDrop.
+
+</details>
+
+<details>
+<summary><strong>Android Installation</strong></summary>
+
+1. Visit [PeerDrop on Google Play](https://play.google.com/store/apps/details?id=com.ateeqdevelops.peerdrop).
+2. Tap Install.
+3. Open PeerDrop and start sharing.
+
+</details>
+
+## 🔧 Troubleshooting
+
+| Problem | Suggested solution |
+|---|---|
+| Devices are not visible | Check that devices are connected to the same local network when required. |
+| Transfer does not start | Restart PeerDrop on both devices and try again. |
+| Desktop discovery fails | Check your firewall settings. |
+| Installation issue | Download the latest installer from the official website. |
+
+---
+
+## 👨‍💻 Developed By
+
+<div align="center">
+
+### Ateeq Develops
+
+Building useful applications with a focus on simplicity, performance, and user experience.
+
+[![Website](https://img.shields.io/badge/Website-Ateeq%20Develops-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ateeqdevelops.github.io/)
+
+[![Google Play](https://img.shields.io/badge/Google%20Play-Developer%20Page-34A853?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/dev?id=9135816812153239043)
+
+</div>
 
 ---
 
 <div align="center">
 
-**PeerDrop — Share files. Stay connected.**
+**PeerDrop — Share Freely. Transfer Simply.**
 
-Made with ❤️ by Ateeq Develops
+Made with ❤️ by **Ateeq Develops**
 
 </div>
